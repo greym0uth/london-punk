@@ -1,0 +1,6 @@
+log*
+.minecraft/*
+
+!.minecraft/config
+!.minecraft/mods
+!.minecraft/icon.png
