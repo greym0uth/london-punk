@@ -96,6 +96,11 @@
 		beanstalk = true
 		rainbow_oak = true
 
+	[leaves_type.tconstruct]
+		earth_slime = true
+		sky_slime = true
+		ender_slime = true
+
 [wood_type]
 
 	[wood_type.minecraft]
@@ -154,4 +159,9 @@
 		transformation = true
 		mining = true
 		sorting = true
+
+	[wood_type.tconstruct]
+		greenheart = true
+		skyroot = true
+		bloodshroom = true
 
