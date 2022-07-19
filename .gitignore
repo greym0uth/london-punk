@@ -6,3 +6,4 @@ backups/
 !.minecraft/config
 !.minecraft/mods
 !.minecraft/icon.png
+!.minecraft/servers.dat
